@@ -1,0 +1,44 @@
+[
+    {
+        "t_id"  : 1,
+        "title" : "My Todo 1",
+        "desc"  : "Lorem ipssum dolor hati mayhem",
+        "date"  : "20-01-1990",
+        "day"   : "Wednesday",
+        "tasks" : [
+            {
+                "task_id"               : 101,
+                "task_desc"             : "Lorem dolor sit amen fai amen mayhem",
+                "is_task_completed"     : false,
+                "add_task_date"         : "20-01-1990",
+                "add_task_time"         : "12:00:00"
+            },
+            {
+                "task_id"               : 102,
+                "task_desc"             : "Lorem dolor sit amen fai amen mayhem",
+                "is_task_completed"     : false,
+                "add_task_date"         : "20-01-1990",
+                "add_task_time"         : "14:00:00"
+            }
+        ],
+        "edit_date" : "",
+        "progress"  : 0
+    },
+    {
+        "t_id"  : 2,
+        "title" : "My Todo 2",
+        "desc"  : "Lorem ipssum dolor hati mayhem",
+        "date"  : "21-01-1990",
+        "day"   : "Thursday",
+        "tasks" : [
+            {
+                "task-id"               : 201,
+                "task_desc"             : "Lorem dolor sit amen fai amen mayhem",
+                "is_task_completed"     : false,
+                "add_task_date"      : "21-01-1990"
+            }
+        ],
+        "edit_date" : "",
+        "progress"  : 0
+    }
+]
